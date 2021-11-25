@@ -7,7 +7,7 @@ A ``C++`` graphical implementation of Knight Tour problem using ``SFML`` library
 ## Knight Tour Problem
 
 
-A knight's tour problem is a mathematical problem to visit every square of a chessboard once by a sequence of knight's moves.
+A knight's tour problem is a mathematical problem to visit every square of a chessboard only once by a sequence of knight's moves.
 
  
 ## Requirements

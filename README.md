@@ -1,4 +1,4 @@
-# Night-Tour
+# Night Tour Implementation
 
 
 A ``C++`` graphical implementation of Knight Tour problem using ``SFML`` library

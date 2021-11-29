@@ -1,7 +1,7 @@
 # Knight Tour Implementation
 
 
-A ``C++`` graphical implementation of Knight Tour problem using ``SFML`` library
+A ``C++`` implementation of Knight Tour problem
 
 
 ## Knight Tour Problem
@@ -14,7 +14,6 @@ A knight's tour problem is a mathematical problem to visit every square of a che
 
 
 - C++  version 11 or greater
-- SMFL Library
 - Dev-C++ IDE
 
 
@@ -22,9 +21,12 @@ A knight's tour problem is a mathematical problem to visit every square of a che
 * Clone the repository
 * Open the project in Dev C++
 * Run the main.cpp file inside the src
+* Enter knight position in the chessboard in the command line 
 
 
 ## Output
 
 
-<img src="https://user-images.githubusercontent.com/47594854/143402379-951db5c0-9c8f-4242-8afa-cba2377d2bec.png" width="300">
+Knight position: (3,4)
+Knight started from `d4`
+<img src="https://user-images.githubusercontent.com/47594854/143924142-84eeda2e-0b75-4905-8771-8ed6073effa1.png" width="300">

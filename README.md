@@ -30,4 +30,4 @@ A knight's tour problem is a mathematical problem to visit every square of a che
 Knight position: (3,4)
 Knight started from `d4`
 
-<img src="https://user-images.githubusercontent.com/47594854/143924142-84eeda2e-0b75-4905-8771-8ed6073effa1.png" width="300">
+<img src="https://user-images.githubusercontent.com/47594854/143924142-84eeda2e-0b75-4905-8771-8ed6073effa1.png" width="500">

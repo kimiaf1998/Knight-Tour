@@ -1,51 +1,32 @@
-# Knight Tour Implementation
+# Knight Tour 
+Knight tour problem solver using `C++` in `QT Creator` IDE.
 
+## Define the problem
+By [defenition](https://en.wikipedia.org/wiki/Knight%27s_tour), A knight's tour is a sequence of moves of a knight on a chessboard (usually 8x8) such that the knight visits every square exactly once. 
 
-A ``C++`` implementation of Knight Tour problem
+<br/>
 
+## Compile
+1. Download the repository from [here](https://github.com/kimiaf1998/Knight-Tour/archive/refs/heads/master.zip " this link") then extract it, or clone it using:
+```bash
+git clone  https://github.com/kimiaf1998/Knight-Tour.git
+```
 
-## Knight Tour Problem
+2. Open the extracted repository in `QT Creator` IDE
+3. Press `CTRL+shift+B` to build the program
 
+<br/>
 
-A knight's tour problem is a mathematical problem to visit every square of a chessboard only once by a sequence of knight's moves.
+## Run
+1. Run the program in `QT Creator` IDE by pressing `CTRL+R`.
+2. Maximize the console to see the better and more arranged result.  
+3. Enter the knight's position in the chessboard (e.g., 4 5) and press enter in the console. 
 
- 
-## Requirements
+Then the chessboard and knight's positions will be displayed in the console in tandem, and you can press enter to trace the sequence.
 
-
-- C++  version 11 or greater
-- Dev-C++ IDE
-
-
-## How to run
-* Clone the repository
-* Open the project in Dev C++
-* Run the main.cpp file inside the src
-* Enter knight position in the chessboard in the command line 
-
+<br/>
 
 ## Output
-
-
-Knight position: (3,4)
-
-Knight started from `d4`.
-
-<img src="https://user-images.githubusercontent.com/47594854/143924142-84eeda2e-0b75-4905-8771-8ed6073effa1.png" width="500">
-
-
-
-<img src="https://user-images.githubusercontent.com/47594854/143924968-a5032d32-73fb-4c1d-bc11-712a3108a83c.png" width="500">
-
-
-
-<img src="https://user-images.githubusercontent.com/47594854/143924980-36102f06-f23d-484f-be1f-1cdcb58c4550.png" width="500">
-
-
-
-<img src="https://user-images.githubusercontent.com/47594854/143924994-f904e2e2-2e31-4a2b-b795-6e9e1ed04d98.png" width="500">
-
-
-
-<img src="https://user-images.githubusercontent.com/47594854/143925004-a53a6397-dc97-43c2-85c6-9fae4c296a5d.png" width="500">
-
+|  ![screen 1](https://github.com/kimiaf1998/Knight-Tour/blob/master/output/screen%201.png "screen 1") |  ![screen 2](https://github.com/kimiaf1998/Knight-Tour/blob/master/output/screen%202.png "screen 2") |
+| ------------ | ------------ |
+|  ![screen 3](https://github.com/kimiaf1998/Knight-Tour/blob/master/output/screen%203.png "screen 3") | ![screen 4](https://github.com/kimiaf1998/Knight-Tour/blob/master/output/screen%204.png "screen 4")  |

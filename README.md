@@ -20,7 +20,8 @@ git clone  https://github.com/kimiaf1998/Knight-Tour.git
 ## Run
 1. Run the program in `QT Creator` IDE by pressing `CTRL+R`.
 2. Maximize the console to see the better and more arranged result.  
-3. Enter the knight's position in the chessboard (e.g., 4 5) and press enter in the console. 
+3. Enter the knight's position in the chessboard (e.g., 3 0) and press enter in the console. 
+### (this position means the knight's initial position is in the 4th column (from left) and the first column (from top).
 
 Then the chessboard and knight's positions will be displayed in the console in tandem, and you can press enter to trace the sequence.
 
